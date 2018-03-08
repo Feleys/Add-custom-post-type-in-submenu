@@ -1,5 +1,5 @@
 <?php
-
+// register menu args:
 // 'show_in_menu' => 'edit.php?post_type=page_article'
 
 
